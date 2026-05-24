@@ -6,4 +6,5 @@ const about = (req,res)=>{
         console.log(error.message);
     }
 }
-    export {about};
+    export {about}
+    
