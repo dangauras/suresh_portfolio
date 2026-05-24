@@ -5,3 +5,5 @@ const about = (req,res)=>{
     catch (error) {
         console.log(error.message);
     }
+}
+    export {about};
